@@ -1,0 +1,7 @@
+{
+  "name": "dmsclub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
